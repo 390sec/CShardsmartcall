@@ -1,0 +1,57 @@
+
+## **1. Code Files**
+
+| Language   | Example Name                              | Notes / Best Practice                      |
+| ---------- | ----------------------------------------- | ------------------------------------------ |
+| Python     | `data_analysis.py`                        | Use lowercase, underscores for readability |
+| C++        | `main.cpp` or `temperature_converter.cpp` | Use descriptive names for the program      |
+| Java       | `StudentRecords.java`                     | Start with uppercase if class name         |
+| JavaScript | `app.js`                                  | Name should reflect functionality          |
+| C          | `calculator.c`                            | Keep meaningful names, lowercase           |
+
+---
+
+## **2. Documentation / Notes**
+
+| Type                 | Example Name                        | Notes                          |
+| -------------------- | ----------------------------------- | ------------------------------ |
+| Markdown             | `README.md`                         | Standard for repo description  |
+| Notes / instructions | `ProjectPlan.md`, `Instructions.md` | Clear purpose in the name      |
+| LaTeX report         | `FinalReport.tex`                   | Name reflects document content |
+| Text files           | `todo.txt`, `data_description.txt`  | Simple descriptive name        |
+
+---
+
+## **3. Data / Project Files**
+
+| Type  | Example Name        | Notes                                    |
+| ----- | ------------------- | ---------------------------------------- |
+| CSV   | `students.csv`      | Name reflects data content               |
+| Excel | `sales_data.xlsx`   | Keep name clear                          |
+| JSON  | `config.json`       | Usually configuration or structured data |
+| PDF   | `ProjectReport.pdf` | Reflect the document purpose             |
+
+---
+
+## **4. Configuration / Project Files**
+
+| Type        | Example Name       | Notes                        |
+| ----------- | ------------------ | ---------------------------- |
+| Git ignore  | `.gitignore`       | Standard filename for Git    |
+| Environment | `.env`             | Stores environment variables |
+| Dependency  | `requirements.txt` | Python packages              |
+| Node.js     | `package.json`     | Node project configuration   |
+| Docker      | `Dockerfile`       | No extension, standard name  |
+
+---
+
+## **5. Archives / Compressed**
+
+| Type  | Example Name       | Notes                           |
+| ----- | ------------------ | ------------------------------- |
+| ZIP   | `ProjectFiles.zip` | Include project folder content  |
+| 7-Zip | `DataAnalysis.7z`  | For maximum compression         |
+| TAR   | `dataset.tar.xz`   | Mostly for Linux / big datasets |
+
+---
+
